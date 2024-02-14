@@ -7,6 +7,9 @@ The Intelligent Floor Plan Management System simplifies space management by enab
 ## Backend Routes : https://ifms.onrender.com/
 
 
+![image](https://github.com/Deepanshi03/Intelligent-Floor-Plan-Management-System/assets/92084743/dd0154d5-ca22-4cfd-8abb-352922d06b83)
+
+
 ## Floor Plan Management System Features
 
 1. **View Floor Plans**: Easily browse and visualize existing floor plans.
