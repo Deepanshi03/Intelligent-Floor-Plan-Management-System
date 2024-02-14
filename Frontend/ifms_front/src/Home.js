@@ -22,12 +22,12 @@ function Home() {
         </Typography>
         <img src={map} alt="Example Image" className="home-image" style={{marginTop:'50px'}}/>
         <div className="cards-container" style={{marginTop:'110px', marginBottom:'40px'}}>
-          <Card className="card" component={Link} to="/add-floor-map" sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none' }}>
+          <Card className="card" component={Link} to="/add-plan" sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none' }}>
             <CardMedia
               component="img"
               height="140"
               image={add}
-              alt="Add Floor Map"
+              alt="Add Floor Plan"
             />
             <CardContent>
               <Typography variant="h6" component="div">
@@ -36,12 +36,12 @@ function Home() {
             </CardContent>
           </Card>
           
-          <Card className="card" component={Link} to="/view-floor-map" sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none' }}>
+          <Card className="card" component={Link} to="/modify-plan" sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none' }}>
             <CardMedia
               component="img"
               height="140"
               image={view}
-              alt="View Floor Map"
+              alt="View Floor Plan"
             />
             <CardContent>
               <Typography variant="h6" component="div">
@@ -50,12 +50,12 @@ function Home() {
             </CardContent>
           </Card>
 
-          <Card className="card" component={Link} to="/delete-floor-map" sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none'}}>
+          <Card className="card" component={Link} to="/delete-plan" sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none'}}>
             <CardMedia
               component="img"
               height="140"
               image={del}
-              alt="Delete Floor Map"
+              alt="Delete Floor Plan"
             />
             <CardContent>
               <Typography variant="h6" component="div">
@@ -64,7 +64,7 @@ function Home() {
             </CardContent>
           </Card>
 
-          <Card className="card" component={Link} to="/book-room" sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none' }}>
+          <Card className="card"  sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none' }}>
             <CardMedia
               component="img"
               height="140"
@@ -78,12 +78,12 @@ function Home() {
             </CardContent>
           </Card>
 
-          <Card className="card" component={Link} to="/book-seats" sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none' }}>
+          <Card className="card"  sx={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' , textDecoration:'none' }}>
             <CardMedia
               component="img"
               height="140"
               image={seat}
-              alt="Book Seats"
+              alt="Book Seat"
             />
             <CardContent>
               <Typography variant="h6" component="div">
