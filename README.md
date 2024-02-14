@@ -6,6 +6,10 @@ The Intelligent Floor Plan Management System simplifies space management by enab
 ## API Documentation : https://documenter.getpostman.com/view/29752971/2sA2r53js5
 ## Backend Routes : https://ifms.onrender.com/
 
+## Video Link
+[![image](https://github.com/Deepanshi03/Intelligent-Floor-Plan-Management-System/assets/92084743/e7ee1f97-9a36-4c4f-93ce-f368df627f01)](https://drive.google.com/file/d/1kdj67KqBeChJVaVYhqvhv8fJtqYPluyE/view?usp=drive_link)
+
+## Website Design
 
 ![image](https://github.com/Deepanshi03/Intelligent-Floor-Plan-Management-System/assets/92084743/dd0154d5-ca22-4cfd-8abb-352922d06b83)
 
